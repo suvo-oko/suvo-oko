@@ -1,8 +1,5 @@
 ### Hi there, I'm Rodrigo 👋
 
-<!--
-**suvo-oko/suvo-oko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Welcome to my GitHub profile. I just recently moved in. I'm still tyding things up, and organizing everything to look like my own special place.
 
 - 🌱 I’m currently learning Azure, Terraform, and DevOps
